@@ -256,5 +256,12 @@
       "inviteCode": "a6zm2T8",
       "githubUrl": "https://github.com/RPCS3/rpcs3"
     }
+    {
+  "logo": "reactoscommunity.png",
+  "title": "ReactOS",
+  "quote": "We use Discord to run the ReactOS Vidlii channel and get the community together. It's also the defacto place to get a list of working programs for this OS, and also provides a better version of the IRC chat than the official IRC. (This Discord is unofficial, only promoted by official staff.)",
+  "inviteCode": "https://discord.gg/5Ud7D85",
+  "githubUrl": "https://github.com/reactos/reactos"
+}
   ]
 }
